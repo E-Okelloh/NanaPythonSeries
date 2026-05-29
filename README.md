@@ -1,1 +1,1 @@
-# NanaPythonSeries
+# PythonSeries
